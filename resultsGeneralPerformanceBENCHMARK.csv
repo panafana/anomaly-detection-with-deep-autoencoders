@@ -1,0 +1,32 @@
+20/03/2021
+shuttle_benchmark_0020.csv
+best models percent = 0.01 shuttle_benchmark_0020.csv
+params,noise_amount,1,iterations,1
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.9362446546585461,0.7199832980576792,0.7200984838667877,0.7199832980576792,0.8938706751328236,0.5111802225965761
+performance max single
+0.9362446546585461
+performance Distance
+0.7058442399896333
+performance Distance positive negative votes
+0.7894691374022721
+performance DistanceP
+0.7673966567318906
+20/03/2021
+shuttle_benchmark_0020.csv
+best models percent = 0.01 shuttle_benchmark_0020.csv
+params,noise_amount,1,iterations,1
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.8960016126013275,0.7212215455055937,0.7212359437317323,0.7212215455055937,0.8071213626481217,0.6492736094913106
+performance max single
+0.8960016126013275
+performance Distance
+0.6991490648352123
+performance Distance positive negative votes
+0.7840698026003197
+performance DistanceP
+0.7713129742415734
