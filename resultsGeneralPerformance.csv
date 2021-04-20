@@ -206,3 +206,27 @@ performance max single,0.957578892912571
 performance Distance,0.9603207449560269
 performance Distance positive negative votes,0.9616658044490428
 performance DistanceP,0.9572167615106052
+15/04/2021
+ionosphere.mat
+best models percent = 0.03 ionosphere.mat
+params,noise_amount,1,iterations,1
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.8786610878661087,0.7154811715481172,0.6527196652719666,0.7322175732217573,0.7238493723849372,0.7782426778242678
+performance max single,0.8786610878661087
+performance Distance,0.8200836820083682
+performance Distance positive negative votes,0.8242677824267782
+performance DistanceP,0.7907949790794979
+15/04/2021
+ionosphere.mat
+best models percent = 0.03 ionosphere.mat
+params,noise_amount,1,iterations,1
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.9037656903765691,0.7154811715481172,0.6610878661087866,0.7322175732217573,0.8368200836820083,0.8619246861924686
+performance max single,0.9037656903765691
+performance Distance,0.8577405857740585
+performance Distance positive negative votes,0.8242677824267782
+performance DistanceP,0.8619246861924686
