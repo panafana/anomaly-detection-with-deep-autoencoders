@@ -1,232 +1,52 @@
-21/03/2021
+06/05/2021
 cardio.mat
 best models percent = 0.01 cardio.mat
-params,noise_amount,1,iterations,10
+params,noise_amount,1,iterations,20
 network size
 2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
 Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8357569721115539,0.8366533864541832,0.8374501992031872,0.8365537848605579,0.8346613545816733,0.8343625498007968
-performance max single
-0.8378486055776893
-performance Distance
-0.875996015936255
-performance Distance positive negative votes
-0.8766932270916336
-performance DistanceP
-0.8400398406374503
-21/03/2021
-ionosphere.mat
-best models percent = 0.01 ionosphere.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.7389121338912135,0.6736401673640168,0.6485355648535566,0.7025104602510458,0.6661087866108787,0.702928870292887
-performance max single
-0.7606694560669455
-performance Distance
-0.8192468619246863
-performance Distance positive negative votes
-0.8112970711297072
-performance DistanceP
-0.7276150627615061
-21/03/2021
+0.8355577689243028,0.8366533864541829,0.8376494023904384,0.8366035856573703,0.8364541832669323,0.8345119521912352
+performance max single,0.8379980079681275
+performance Distance,0.8774402390438247
+performance Distance positive negative votes,0.8769422310756971
+performance DistanceP,0.8406872509960162
+performance DistanceP2,0.8346115537848606
+06/05/2021
 satellite.mat
 best models percent = 0.01 satellite.mat
-params,noise_amount,1,iterations,10
+params,noise_amount,1,iterations,20
 network size
 2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
 Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.6975920679886685,0.7207979225684609,0.7214117091595846,0.7220254957507082,0.6874881964117093,0.708215297450425
-performance max single
-0.7235599622285175
-performance Distance
-0.5969310670443815
-performance Distance positive negative votes
-0.6038479697828139
-performance DistanceP
-0.7426581680830973
-21/03/2021
-shuttle.mat
-best models percent = 0.01 shuttle.mat
-params,noise_amount,1,iterations,3
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8975187550689375,0.9016119221411193,0.9016372668288727,0.901573905109489,0.9000912408759124,0.9027904501216545
-performance max single
-0.9027904501216545
-performance Distance
-0.9905464314679643
-performance Distance positive negative votes
-0.989139801297648
-performance DistanceP
-0.9021948499594484
-21/03/2021
+0.6938385269121813,0.7204674220963172,0.7216005665722379,0.7207979225684609,0.6943106704438149,0.7009678942398488
+performance max single,0.7222733711048159
+performance Distance,0.5917374881964117
+performance Distance positive negative votes,0.5990439093484419
+performance DistanceP,0.7443342776203965
+performance DistanceP2,0.7430004721435316
+06/05/2021
 breastw.mat
 best models percent = 0.01 breastw.mat
 params,noise_amount,1,iterations,10
 network size
 2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
 Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8553145336225596,0.8329718004338396,0.8787418655097616,0.8665943600867678,0.8557483731019524,0.8609544468546637
-performance max single
-0.8787418655097616
-performance Distance
-0.9557483731019524
-performance Distance positive negative votes
-0.9563991323210412
-performance DistanceP
-0.878308026030369
-21/03/2021
+0.8605206073752709,0.8329718004338396,0.8785249457700652,0.8678958785249457,0.8559652928416485,0.8609544468546637
+performance max single,0.8785249457700652
+performance Distance,0.9566160520607376
+performance Distance positive negative votes,0.9581344902386117
+performance DistanceP,0.8780911062906727
+performance DistanceP2,0.8626898047722342
+06/05/2021
 wine.mat
 best models percent = 0.01 wine.mat
 params,noise_amount,1,iterations,10
 network size
 2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
 Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8728571428571431,0.8714285714285717,0.8728571428571431,0.8714285714285717,0.8785714285714288,0.8728571428571431
-performance max single
-0.8814285714285717
-performance Distance
-0.8557142857142855
-performance Distance positive negative votes
-0.8528571428571426
-performance DistanceP
-0.8785714285714288
-21/03/2021
-thyroid.mat
-best models percent = 0.01 thyroid.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.9548370408691154,0.9558717020175893,0.9560269011898603,0.9559751681324367,0.954733574754268,0.955406104500776
-performance max single
-0.9561303673047077
-performance Distance
-0.9605276771857216
-performance Distance positive negative votes
-0.9615106052767717
-performance DistanceP
-0.9557165028453181
-21/03/2021
-cardio.mat
-best models percent = 0.03 cardio.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8393426294820718,0.8379482071713147,0.846215139442231,0.8384462151394422,0.8392430278884463,0.8413346613545818
-performance max single
-0.8463147410358566
-performance Distance
-0.8774900398406373
-performance Distance positive negative votes
-0.8770916334661354
-performance DistanceP
-0.8477091633466136
-21/03/2021
-ionosphere.mat
-best models percent = 0.03 ionosphere.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.7430962343096236,0.7154811715481173,0.6606694560669457,0.7322175732217574,0.7447698744769875,0.7393305439330545
-performance max single
-0.7665271966527197
-performance Distance
-0.8121338912133893
-performance Distance positive negative votes
-0.8041841004184102
-performance DistanceP
-0.7548117154811717
-21/03/2021
-satellite.mat
-best models percent = 0.03 satellite.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.7188621340887631,0.7254485363550519,0.7259206798866855,0.7267469310670445,0.709159584513692,0.5768885741265345
-performance max single
-0.7334513692162418
-performance Distance
-0.592162417374882
-performance Distance positive negative votes
-0.6015344664778094
-performance DistanceP
-0.7557601510859302
-21/03/2021
-shuttle.mat
-best models percent = 0.03 shuttle.mat
-params,noise_amount,1,iterations,3
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.9014091646390917,0.953492497972425,0.9619322789943228,0.9586374695863746,0.9015992497972425,0.9890891119221411
-performance max single,0.9890891119221411
-performance Distance,0.9899888483373885
-performance Distance positive negative votes,0.9890891119221411
-performance DistanceP,0.9716646390916464
-21/03/2021
-breastw.mat
-best models percent = 0.03 breastw.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8707158351409978,0.8611713665943601,0.8845986984815619,0.8791757049891542,0.8698481561822126,0.8754880694143168
-performance max single,0.8845986984815619
-performance Distance,0.9553145336225597
-performance Distance positive negative votes,0.9577006507592192
-performance DistanceP,0.8845986984815619
-21/03/2021
-wine.mat
-best models percent = 0.03 wine.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8800000000000002,0.8857142857142859,0.875714285714286,0.8714285714285717,0.8842857142857146,0.8742857142857146
-performance max single,0.9014285714285716
-performance Distance,0.8542857142857143
-performance Distance positive negative votes,0.8499999999999999
-performance DistanceP,0.8942857142857145
-21/03/2021
-thyroid.mat
-best models percent = 0.03 thyroid.mat
-params,noise_amount,1,iterations,10
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.9545266425245733,0.9569063631660631,0.957578892912571,0.9571132953957578,0.9546301086394207,0.955561303673047
-performance max single,0.957578892912571
-performance Distance,0.9603207449560269
-performance Distance positive negative votes,0.9616658044490428
-performance DistanceP,0.9572167615106052
-15/04/2021
-ionosphere.mat
-best models percent = 0.03 ionosphere.mat
-params,noise_amount,1,iterations,1
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.8786610878661087,0.7154811715481172,0.6527196652719666,0.7322175732217573,0.7238493723849372,0.7782426778242678
-performance max single,0.8786610878661087
-performance Distance,0.8200836820083682
-performance Distance positive negative votes,0.8242677824267782
-performance DistanceP,0.7907949790794979
-15/04/2021
-ionosphere.mat
-best models percent = 0.03 ionosphere.mat
-params,noise_amount,1,iterations,1
-network size
-2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
-Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
-0.9037656903765691,0.7154811715481172,0.6610878661087866,0.7322175732217573,0.8368200836820083,0.8619246861924686
-performance max single,0.9037656903765691
-performance Distance,0.8577405857740585
-performance Distance positive negative votes,0.8242677824267782
-performance DistanceP,0.8619246861924686
+0.8785714285714288,0.8714285714285717,0.8714285714285717,0.8714285714285717,0.8728571428571431,0.8728571428571431
+performance max single,0.8785714285714288
+performance Distance,0.8557142857142856
+performance Distance positive negative votes,0.8557142857142855
+performance DistanceP,0.875714285714286
+performance DistanceP2,0.875714285714286
