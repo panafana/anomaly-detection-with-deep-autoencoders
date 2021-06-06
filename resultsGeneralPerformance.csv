@@ -50,3 +50,55 @@ performance Distance,0.8557142857142856
 performance Distance positive negative votes,0.8557142857142855
 performance DistanceP,0.875714285714286
 performance DistanceP2,0.875714285714286
+06/06/2021
+cardio.mat
+best models percent = 0.01 cardio.mat
+params,noise_amount,1,iterations,10
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.8355577689243029,0.8366533864541832,0.8376494023904384,0.8365537848605579,0.8353585657370518,0.8344621513944223
+performance max single,0.8376494023904384
+performance Distance,0.8777888446215139
+performance Distance positive negative votes,0.8781872509960159
+performance DistanceP,0.8405378486055778
+performance DistanceP2,0.8340637450199203
+06/06/2021
+satellite.mat
+simple model
+params,noise_amount,1,iterations,1
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.6864966949952785,0.7211992445703493,0.7188385269121813,0.7183663833805477,0.7193106704438149,0.6657223796033994
+performance max single,0.7211992445703493
+performance Distance,0.580028328611898
+performance Distance positive negative votes,0.5701133144475921
+performance DistanceP,0.7431539187913125
+performance DistanceP2,0.7445703493862134
+06/06/2021
+breastw.mat
+best models percent = 0.01 breastw.mat
+params,noise_amount,1,iterations,1
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.8308026030368764,0.7830802603036876,0.8373101952277657,0.8308026030368764,0.7440347071583514,0.8199566160520607
+performance max single,0.8373101952277657
+performance Distance,0.9479392624728851
+performance Distance positive negative votes,0.9566160520607375
+performance DistanceP,0.8394793926247288
+performance DistanceP2,0.8026030368763557
+06/06/2021
+wine.mat
+best models percent = 0.01 wine.mat
+params,noise_amount,1,iterations,1
+network size
+2000,1000,500,300,200,100,70,40,10,40,70,100,200,300,500,1000,2000
+Simple,Contracting,Sparse,Sparse Dropout,Denoising,Ensemble2,Voting
+0.9,0.9,0.9142857142857143,0.9,0.9285714285714286,0.9
+performance max single,0.9285714285714286
+performance Distance,0.7142857142857143
+performance Distance positive negative votes,0.6857142857142857
+performance DistanceP,0.8857142857142857
+performance DistanceP2,0.9285714285714286
